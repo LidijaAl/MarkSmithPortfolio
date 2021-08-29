@@ -12,7 +12,7 @@
 
 ## Screenshot
 
-![](img\Screenshot.png)
+![](https://snipboard.io/jbOuq0.jpg)
 
 ### Built with
 - HTML
