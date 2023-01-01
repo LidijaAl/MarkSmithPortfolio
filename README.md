@@ -4,6 +4,7 @@
 
 - [Overview](#overview)
 - [Screenshot](#screenshot)
+- [Links](#links)
 - [Built with](#built-with)
 
 
@@ -14,7 +15,10 @@
 
 ![](https://snipboard.io/jbOuq0.jpg)
 
-### Built with
+## Links
+- Live Site URL: [https://lidijaal.github.io/MikeSmithPortfolio/](https://lidijaal.github.io/MikeSmithPortfolio/)
+
+## Built with
 - HTML
 - Sass
 - JavaScript
